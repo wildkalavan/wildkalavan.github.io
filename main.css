@@ -14,7 +14,7 @@ html {
 body {
 	overflow:hidden;
 	font-family: sans-serif;
-	background:url(hike.jpg);
+	background:url(../hike.jpg);
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
