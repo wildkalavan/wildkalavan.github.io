@@ -335,7 +335,6 @@ footer .call a {
 		top: -800px;
 		left:0;
 		transition: 0.5s;
-		border-radius: 0 0 150px 150px;
 	}
 	header nav.left {
 		top:50px;
